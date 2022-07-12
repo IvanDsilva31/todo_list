@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Grocery Shopping",
+      "day": "13th May at 2:30pm"
+    },
+    {
+      "id": 2,
+      "text": "Doctors Appointment",
+      "day": "26th June at 2:00pm"
+    },
+    {
+      "text": "Meeting",
+      "day": "20th June at 3:00pm",
+      "id": 3
+    },
+    {
+      "text": "Revision",
+      "day": "Today at 7pm",
+      "id": 4
+    }
+  ]
+}
